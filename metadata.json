@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Tôi – Tôi Có Thế Mạnh Gì?",
+  "description": "Web app giáo dục dành cho học sinh lớp 10 trải nghiệm 8 trạm hướng nghiệp, nhận diện điểm mạnh, sở thích và lập hồ sơ khám phá bản thân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
